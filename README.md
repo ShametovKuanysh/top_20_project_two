@@ -145,14 +145,3 @@ API для управления задачами с авторизацией JWT
   "message": "Задача успешно удалена"
 }
 ```
-
-## Установка и запуск
-```sh
-git clone https://github.com/your-repo/task-api.git
-cd task-api
-go mod tidy
-go run main.go
-```
-
-## Лицензия
-Этот проект распространяется под лицензией MIT.
